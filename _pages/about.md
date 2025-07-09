@@ -71,7 +71,7 @@ redirect_from:
 
 **2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision.**
 
-S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. In ***Findings of NAACL***, 2025.
+S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. In ***Findings of NAACL***, 2025, pp. 8149–8173.
 
 </div>
 </div>
@@ -81,7 +81,7 @@ S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, 
 
 **Self-evaluation of large language model based on glass-box features.**
 
-**H. Huang**, Y. Qu, J. Liu, M. Yang, B. Xu, T. Zhao, and W. Lu. In ***Findings of EMNLP***, 2024.
+**H. Huang**, Y. Qu, J. Liu, M. Yang, B. Xu, T. Zhao, and W. Lu. In ***Findings of EMNLP***, 2024, pp. 5813–5820.
 
 </div>
 </div>
@@ -91,7 +91,7 @@ S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, 
 
 **Migitating the bias of large language model evaluation.**
 
-H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In ***Proc. of CCL***, 2024.
+H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In ***Proc. of CCL***, 2024, pp. 1310–1319.
 
 </div>
 </div>
@@ -111,7 +111,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **Improving translation quality estimation with bias mitigation.**
 
-**H. Huang**, S. Wu, K. Chen, H. Di, M. Yang, and T. Zhao. In ***Proc. of ACL (Volume 1: Long Papers)***, 2023, pp. 2175-2190.
+**H. Huang**, S. Wu, K. Chen, H. Di, M. Yang, and T. Zhao. In ***Proc. of ACL***, 2023, pp. 2175-2190.
 
 </div>
 </div>
