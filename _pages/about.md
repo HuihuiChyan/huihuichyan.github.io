@@ -29,7 +29,7 @@ redirect_from:
 📫 Feel free to contact me via email: 22b903058@stu.hit.edu.cn.
 
 <br><br>
-# 📝 Publications
+# 📝 Selected Publications
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
