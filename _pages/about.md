@@ -30,13 +30,13 @@ redirect_from:
 
 <br><br>
 # 📖 Educations
-- *2022.08 - Present*, Ph.D., Harbin Institute of Technology in Computer Science. Supervised by Professor Muyun Yang.
-- *2018.09 - 2022.06*, M.Sc., Beijing Jiaotong University in Computer Science. Supervised by Professor Jin'an Xu.
+- *2022.08 - Present*, Ph.D., Harbin Institute of Technology in Computer Science. Supervised by Professor [Muyun Yang](https://homepage.hit.edu.cn/yangmuyun).
+- *2018.09 - 2022.06*, M.Sc., Beijing Jiaotong University in Computer Science. Supervised by Professor [Jin'an Xu](https://faculty.bjtu.edu.cn/8300/).
 - *2014.09 - 2018.06*, B.Sc., University of Science and Technology Beijing in Computer Science.
 
 <br><br>
 # 💻 Experiences
-- *2025.07 - Present*, Visiting Student, Institute of Science Tokyo (aka. Tokyo Institute of Technology).
+- *2025.07 - Present*, Visiting Student, [Arase Lab](https://arase-cl-lab.c.titech.ac.jp/), Institute of Science Tokyo.
 - *2024.07 - 2025.06*, Research Internship, Future Life Laboratory, Alibaba Group.
 - *2023.09 - 2024.03*, Research Internship, Department of Wenxin Yiyan, Baidu Inc.. 
 - *2023.03 - 2023.08*, Research Internship, AI Lab, ByteDance Inc.. 
