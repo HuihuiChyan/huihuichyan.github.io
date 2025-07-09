@@ -29,6 +29,21 @@ redirect_from:
 📫 Feel free to contact me via email: 22b903058@stu.hit.edu.cn.
 
 <br><br>
+# 📖 Educations
+- *2022.08 - Present*, Ph.D., Harbin Institute of Technology in Computer Science. Supervised by Professor Muyun Yang.
+- *2018.09 - 2022.06*, M.Sc., Beijing Jiaotong University in Computer Science. Supervised by Professor Jin'an Xu.
+- *2014.09 - 2018.06*, B.Sc., University of Science and Technology Beijing in Computer Science.
+
+<br><br>
+# 💻 Experiences
+- *2025.07 - Present*, Visiting Student, Institute of Science Tokyo (aka. Tokyo Institute of Technology).
+- *2024.07 - 2025.06*, Research Internship, Future Life Laboratory, Alibaba Group.
+- *2023.09 - 2024.03*, Research Internship, Department of Wenxin Yiyan, Baidu Inc.. 
+- *2023.03 - 2023.08*, Research Internship, AI Lab, ByteDance Inc.. 
+- *2022.10 - 2023.03*, Research Internship, Lark AI, ByteDance Inc.. 
+- *2019.07 - 2022.08*, Research Internship, Toshiba Research and Development Center. 
+
+<br><br>
 # 📝 Selected Publications
 
 <div class='paper-box'>
@@ -36,7 +51,7 @@ redirect_from:
 
 **Musc: Improving complex instruction following with multi-granularity self-contrastive training.**
 
-**H. Huang**, J. Liu, Y. He, S. Li, B. Xu, C. Zhu, M. Yang, T. Zhao. In ***Proc. of ACL***, 2025, Vienna, Austria, July. 2025.
+**H. Huang**, J. Liu, Y. He, S. Li, B. Xu, C. Zhu, M. Yang, T. Zhao. In ***Proc. of ACL***, 2025.
 
 </div>
 </div>
@@ -46,7 +61,7 @@ redirect_from:
 
 **An empirical study of Ilm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4.**
 
-**H. Huang**, Y. Qu, X. Bu, H. Zhou, J. Liu, M. Yang, B. Xu, and T. Zhao. In ***Findings of ACL***, 2025, Vienna, Austria, July. 2025.
+**H. Huang**, X. Bu, H. Zhou, Y. Qu, X. Bu, J. Liu, M. Yang, B. Xu, and T. Zhao. In ***Findings of ACL***, 2025.
 
 </div>
 </div>
@@ -56,7 +71,7 @@ redirect_from:
 
 **2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision.**
 
-S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. In ***Findings of NAACL***, Albuquerque, New Mexico, April. 2025.
+S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. In ***Findings of NAACL***, 2025.
 
 </div>
 </div>
@@ -66,7 +81,7 @@ S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and
 
 **Self-evaluation of large language model based on glass-box features.**
 
-**H. Huang**, Y. Qu, J. Liu, M. Yang, B. Xu, T. Zhao, and W. Lu. In ***Findings of EMNLP***, Miami, Florida, Nov. 2024.
+**H. Huang**, Y. Qu, J. Liu, M. Yang, B. Xu, T. Zhao, and W. Lu. In ***Findings of EMNLP***, 2024.
 
 </div>
 </div>
@@ -192,24 +207,9 @@ S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. In ***Findings of EMN
 </div>
 
 <br><br>
-# 💻 Experiences
-- *2025.07 - Present*, Visiting Student, Institute of Science Tokyo (aka. Tokyo Institute of Technology).
-- *2024.07 - 2025.06*, Research Internship, Future Life Laboratory, Alibaba Group.
-- *2023.09 - 2024.03*, Research Internship, Department of Wenxin Yiyan, Baidu Inc.. 
-- *2023.03 - 2023.08*, Research Internship, AI Lab, ByteDance Inc.. 
-- *2022.10 - 2023.03*, Research Internship, Lark AI, ByteDance Inc.. 
-- *2019.07 - 2022.08*, Research Internship, Toshiba Research and Development Center. 
-
-<br><br>
 # 🎖 Honors and Awards
 - *2023*: CHIP Shared Task, Ranked 1st on No-Finetuning Track.
 - *2023*: Eval4NLP Shared Task, Ranked 1st on Medium-Sized Track.
 - *2022*: WMT Shared Task, Ranked 2nd on Quality Estimation for En-De Tracks.
 - *2021*: CCMT Shared Task, Ranked 1st on Quality Estimation and Automatic Post-Editing for Zh-En and Machine Translation for Zh-En, En-Zh and Ti-Zh Tracks.
 - *2020*: CCMT Shared Task, Ranked 1st on Quality Estimation for both Zh-En and En-Zh Tracks.
-
-<br><br>
-# 📖 Educations
-- *2022.08 - Present*, Ph.D., Harbin Institute of Technology in Computer Science. Supervised by Professor Muyun Yang.
-- *2018.09 - 2022.06*, M.Sc., Beijing Jiaotong University in Computer Science. Supervised by Professor Jin'an Xu.
-- *2014.09 - 2018.06*, B.Sc., University of Science and Technology Beijing in Computer Science.
