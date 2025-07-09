@@ -37,7 +37,7 @@ Hi,
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
 **2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision**
-S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. *arXiv preprint arXiv:2410.19720*, 2024.
+S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. In *Findings of NAACL*, Albuquerque, New Mexico, April. 2025.
 
 </div>
 </div>
@@ -55,7 +55,7 @@ S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
 **An empirical study of Ilm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4**
-**H. Huang**, Y. Qu, X. Bu, H. Zhou, J. Liu, M. Yang, B. Xu, and T. Zhao. *arXiv preprint arXiv:2403.02839*, 2024.
+**H. Huang**, Y. Qu, X. Bu, H. Zhou, J. Liu, M. Yang, B. Xu, and T. Zhao. In *Proc. of ACL*, 2025.
 
 </div>
 </div>
