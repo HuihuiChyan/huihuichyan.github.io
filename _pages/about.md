@@ -34,7 +34,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, J. Liu, Y. He, S. Li, B. Xu, C. Zhu, M. Yang, T. Zhao. Musc: Improving complex instruction following with multi-granularity self-contrastive training. In ***Proc. of of ACL***, 2025, Vienna, Austra, July. 2025.
+**Musc: Improving complex instruction following with multi-granularity self-contrastive training.**
+
+**H. Huang**, J. Liu, Y. He, S. Li, B. Xu, C. Zhu, M. Yang, T. Zhao. In ***Proc. of ACL***, 2025, Vienna, Austria, July. 2025.
 
 </div>
 </div>
@@ -42,7 +44,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, Y. Qu, X. Bu, H. Zhou, J. Liu, M. Yang, B. Xu, and T. Zhao. An empirical study of Ilm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4. In ***Findings of ACL***, 2025, Vienna, Austra, July. 2025.
+**An empirical study of Ilm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4.**
+
+**H. Huang**, Y. Qu, X. Bu, H. Zhou, J. Liu, M. Yang, B. Xu, and T. Zhao. In ***Findings of ACL***, 2025, Vienna, Austria, July. 2025.
 
 </div>
 </div>
@@ -50,7 +54,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. 2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision. In ***Findings of NAACL***, Albuquerque, New Mexico, April. 2025.
+**2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision.**
+
+S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. In ***Findings of NAACL***, Albuquerque, New Mexico, April. 2025.
 
 </div>
 </div>
@@ -58,7 +64,9 @@ S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, Y. Qu, J. Liu, M. Yang, B. Xu, T. Zhao, and W. Lu. Self-evaluation of large language model based on glass-box features. In ***Findings of EMNLP***, Miami, Florida, Nov. 2024.
+**Self-evaluation of large language model based on glass-box features.**
+
+**H. Huang**, Y. Qu, J. Liu, M. Yang, B. Xu, T. Zhao, and W. Lu. In ***Findings of EMNLP***, Miami, Florida, Nov. 2024.
 
 </div>
 </div>
@@ -66,7 +74,9 @@ S. Li*, Y. He*, **H. Huang***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Migitating the bias of large language model evaluation. In ***Proc. of CCL***, 2024.
+**Migitating the bias of large language model evaluation.**
+
+H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In ***Proc. of CCL***, 2024.
 
 </div>
 </div>
@@ -74,7 +84,9 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Mig
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, B. Xu, X. Liang, K. Chen, M. Yang, T. Zhao, and C. Zhu. Multi-view fusion for instruction mining of large language model. ***Information Fusion***, vol. 102, p. 102480, 2024.
+**Multi-view fusion for instruction mining of large language model.**
+
+**H. Huang**, B. Xu, X. Liang, K. Chen, M. Yang, T. Zhao, and C. Zhu. ***Information Fusion***, vol. 102, p. 102480, 2024.
 
 </div>
 </div>
@@ -82,7 +94,9 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Mig
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, S. Wu, K. Chen, H. Di, M. Yang, and T. Zhao. Improving translation quality estimation with bias mitigation. In ***Proc. of ACL (Volume 1: Long Papers)***, 2023, pp. 2175-2190.
+**Improving translation quality estimation with bias mitigation.**
+
+**H. Huang**, S. Wu, K. Chen, H. Di, M. Yang, and T. Zhao. In ***Proc. of ACL (Volume 1: Long Papers)***, 2023, pp. 2175-2190.
 
 </div>
 </div>
@@ -90,7 +104,9 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Mig
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, S. Wu, X. Liang, Z. Zhou, M. Yang, and T. Zhao. Iterative nearest neighbour machine translation for unsupervised domain adaptation. In ***Findings of ACL***, 2023, pp. 13294-13301.
+**Iterative nearest neighbour machine translation for unsupervised domain adaptation.**
+
+**H. Huang**, S. Wu, X. Liang, Z. Zhou, M. Yang, and T. Zhao. In ***Findings of ACL***, 2023, pp. 13294-13301.
 
 </div>
 </div>
@@ -98,7 +114,9 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Mig
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, S. Wu, K. Chen, X. Liang, H. Di, M. Yang, and T. Zhao. Multi-view fusion for universal translation quality estimation. ***Information Fusion***, vol. 102, p. 102022, 2024.
+**Multi-view fusion for universal translation quality estimation.**
+
+**H. Huang**, S. Wu, K. Chen, X. Liang, H. Di, M. Yang, and T. Zhao. ***Information Fusion***, vol. 102, p. 102022, 2024.
 
 </div>
 </div>
@@ -106,7 +124,9 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Mig
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, S. Wu, X. Liang, B. Wang, Y. Shi, P. Wu, M. Yang, and T. Zhao. Towards making the most of Ilm for translation quality estimation. In ***Proc. of NLPCC***, 2023, pp. 375-386.
+**Towards making the most of Ilm for translation quality estimation.**
+
+**H. Huang**, S. Wu, X. Liang, B. Wang, Y. Shi, P. Wu, M. Yang, and T. Zhao. In ***Proc. of NLPCC***, 2023, pp. 375-386.
 
 </div>
 </div>
@@ -114,7 +134,9 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Mig
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, H. Di, C. Li, H. Wu, K. Ouchi, Y. Chen, J. Liu, and J. Xu. BJTU-toshiba's submission to WMT22 quality estimation shared task. In ***Proc. of WMT***, 2022, pp. 621-626.
+**BJTU-toshiba's submission to WMT22 quality estimation shared task.**
+
+**H. Huang**, H. Di, C. Li, H. Wu, K. Ouchi, Y. Chen, J. Liu, and J. Xu. In ***Proc. of WMT***, 2022, pp. 621-626.
 
 </div>
 </div>
@@ -122,7 +144,9 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. Mig
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-H. Zhang, **H. Huang**, J. Gao, Y. Chen, J. Xu, and J. Liu. Iterative constrained back-translation for unsupervised domain adaptation of machine translation. In ***Proc. of COLING***, 2022, pp. 5054-5065.
+**Iterative constrained back-translation for unsupervised domain adaptation of machine translation.**
+
+H. Zhang, **H. Huang**, J. Gao, Y. Chen, J. Xu, and J. Liu. In ***Proc. of COLING***, 2022, pp. 5054-5065.
 
 </div>
 </div>
@@ -130,7 +154,9 @@ H. Zhang, **H. Huang**, J. Gao, Y. Chen, J. Xu, and J. Liu. Iterative constraine
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-F. Cui, H. Di, **H. Huang**, H. Ren, K. Ouchi, Z. Liu, and J. Xu. Multi-source inverse-curriculum-based training for low-resource dialogue generation. ***Applied Intelligence***, vol. 53, pp. 13665-13676, 2022.
+**Multi-source inverse-curriculum-based training for low-resource dialogue generation.**
+
+F. Cui, H. Di, **H. Huang**, H. Ren, K. Ouchi, Z. Liu, and J. Xu. ***Applied Intelligence***, vol. 53, pp. 13665-13676, 2022.
 
 </div>
 </div>
@@ -138,7 +164,9 @@ F. Cui, H. Di, **H. Huang**, H. Ren, K. Ouchi, Z. Liu, and J. Xu. Multi-source i
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. Saliency-based multi-view mixed language training for zero-shot cross-lingual classification. In ***Findings of EMNLP***, 2021, pp. 599-610.
+**Saliency-based multi-view mixed language training for zero-shot cross-lingual classification.**
+
+S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. In ***Findings of EMNLP***, 2021, pp. 599-610.
 
 </div>
 </div>
@@ -146,7 +174,9 @@ S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. Saliency-based multi-
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, H. Di, J. Liu, Y. Chen, K. Ouchi, and J. Xu. Contrastive learning for machine translation quality estimation. In ***Proc. of NLPCC***, 2021, pp. 92-103.
+**Contrastive learning for machine translation quality estimation.**
+
+**H. Huang**, H. Di, J. Liu, Y. Chen, K. Ouchi, and J. Xu. In ***Proc. of NLPCC***, 2021, pp. 92-103.
 
 </div>
 </div>
@@ -154,7 +184,9 @@ S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. Saliency-based multi-
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**H. Huang**, H. Di, J. Xu, K. Ouchi, and Y. Chen. Ensemble distilling pretrained language models for machine translation quality estimation. In ***Proc. of NLPCC***, 2020, pp. 231-243.
+**Ensemble distilling pretrained language models for machine translation quality estimation.**
+
+**H. Huang**, H. Di, J. Xu, K. Ouchi, and Y. Chen. In ***Proc. of NLPCC***, 2020, pp. 231-243.
 
 </div>
 </div>
