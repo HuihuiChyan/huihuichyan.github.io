@@ -49,6 +49,27 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
+**Air: Complex instruction generation via automatic iterative refinement.**
+
+W. Liu*, Y. He*, Y. Li*, **H. Huang&#9993;**, C. Hu, J. Liu, S. Li, W. Su, and B. Zheng, In ***Proc. of EMNLP***, 2025.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Legal fact prediction: The missing piece in legal judgment prediction.**
+
+J. Liu, Y. Tong, H. Huang, B. Zheng, Y. Hu, P. Wu, C. Xiao, M. Onizuka, M. Yang, and S. Zheng, In ***Proc. of EMNLP***, 2025.
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
 **Musc: Improving complex instruction following with multi-granularity self-contrastive training.**
 
 **H. Huang**, J. Liu, Y. He, S. Li, B. Xu, C. Zhu, M. Yang, T. Zhao. In ***Proc. of ACL***, 2025.
