@@ -51,7 +51,7 @@ redirect_from:
 
 **Air: Complex instruction generation via automatic iterative refinement.**
 
-W. Liu*, Y. He*, Y. Li*, **H. Huang&#9993;**, C. Hu, J. Liu, S. Li, W. Su, and B. Zheng, In ***Proc. of EMNLP***, 2025.
+W. Liu*, Y. He*, Y. Li*, **H. Huang&#9993;**, C. Hu, J. Liu, S. Li, W. Su, and B. Zheng, In **Proc. of EMNLP***, 2025.
 
 </div>
 </div>
