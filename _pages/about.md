@@ -61,7 +61,7 @@ W. Liu*, Y. He*, Y. Li*, **H. Huang&#9993;**, C. Hu, J. Liu, S. Li, W. Su, and B
 
 **Legal fact prediction: The missing piece in legal judgment prediction.**
 
-J. Liu, Y. Tong, H. Huang, B. Zheng, Y. Hu, P. Wu, C. Xiao, M. Onizuka, M. Yang, and S. Zheng, In ***Proc. of EMNLP***, 2025.
+J. Liu, Y. Tong, **H. Huang**, B. Zheng, Y. Hu, P. Wu, C. Xiao, M. Onizuka, M. Yang, and S. Zheng, In ***Proc. of EMNLP***, 2025.
 
 </div>
 </div>
