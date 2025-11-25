@@ -49,9 +49,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory**
+**Long-form RewardBench: Evaluating Reward Models for Long-form Generation**
 
-H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 2026.
+**H. Huang**, Y. He*, W. Liu*, M. Yang, J. Liu, k. Chen, B. Xu, C. Zhu, H. Cao, and T. Zhao, In **Proc. of AAAI**, 2026.
 
 </div>
 </div>
@@ -69,9 +69,9 @@ H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Long-form RewardBench: Evaluating Reward Models for Long-form Generation**
+**Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory**
 
-**H. Huang**, Y. He*, W. Liu*, M. Yang, J. Liu, k. Chen, B. Xu, C. Zhu, H. Cao, and T. Zhao, In **Proc. of AAAI**, 2026.
+H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 2026.
 
 </div>
 </div>
