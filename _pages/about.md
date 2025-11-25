@@ -36,7 +36,7 @@ redirect_from:
 
 <br><br>
 # 💻 Experiences
-- *2025.07 - Present*, Visiting Student, [Arase Lab](https://arase-cl-lab.c.titech.ac.jp/), Institute of Science Tokyo.
+- *2025.07 - 2025.11*, Visiting Student, [Arase Lab](https://arase-cl-lab.c.titech.ac.jp/), Institute of Science Tokyo.
 - *2024.07 - 2025.06*, Research Internship, Future Life Laboratory, Alibaba Group.
 - *2023.09 - 2024.03*, Research Internship, Department of Wenxin Yiyan, Baidu Inc.. 
 - *2023.03 - 2023.08*, Research Internship, AI Lab, ByteDance Inc.. 
@@ -51,19 +51,16 @@ redirect_from:
 
 **Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory**
 
-H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI***, 2026.
+H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 2026.
 
 </div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
 **Think-J: Learning to Think for Generative LLM-as-a-Judge**
 
-**H. Huang**, Y. He*, H. Zhou*, R. Zhang, W. Liu, W. Wang, J.Liu, and W. Su, In **Proc. of AAAI***, 2026.
+**H. Huang**, Y. He*, H. Zhou*, R. Zhang, W. Liu, W. Wang, J.Liu, and W. Su, In **Proc. of AAAI**, 2026.
 
 </div>
 
@@ -72,7 +69,7 @@ H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI***,
 
 **Long-form RewardBench: Evaluating Reward Models for Long-form Generation**
 
-**H. Huang**, Y. He*, W. Liu*, M. Yang, J. Liu, k. Chen, B. Xu, C. Zhu, H. Cao, and T. Zhao, In **Proc. of AAAI***, 2026.
+**H. Huang**, Y. He*, W. Liu*, M. Yang, J. Liu, k. Chen, B. Xu, C. Zhu, H. Cao, and T. Zhao, In **Proc. of AAAI**, 2026.
 
 </div>
 </div>
