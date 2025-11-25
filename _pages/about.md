@@ -54,6 +54,7 @@ redirect_from:
 H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 2026.
 
 </div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
@@ -62,6 +63,7 @@ H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 
 
 **H. Huang**, Y. He*, H. Zhou*, R. Zhang, W. Liu, W. Wang, J.Liu, and W. Su, In **Proc. of AAAI**, 2026.
 
+</div>
 </div>
 
 <div class='paper-box'>
