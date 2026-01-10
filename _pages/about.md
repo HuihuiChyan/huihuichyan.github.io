@@ -44,6 +44,30 @@ redirect_from:
 - *2019.07 - 2022.08*, Research Internship, Toshiba Research and Development Center. 
 
 <br><br>
+# 📝 ArXiv Preprints
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Reasoning Model Is Superior LLM-Judge, Yet Suffers from Biases**
+
+**Hui Huang**, Xuanxin Wu, Muyun Yang, Yuki Arase, arXiv preprint arXiv:2601.03630, 2026.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**DiVA: Fine-grained Factuality Verification with Agentic-Discriminative Verifier**
+
+**Hui Huang**, Muyun Yang, Yuki Arase, arXiv preprint arXiv:2601.03605, 2026.
+
+</div>
+</div>
+
+
+<br><br>
 # 📝 Selected Publications
 
 <div class='paper-box'>
@@ -51,7 +75,7 @@ redirect_from:
 
 **Long-form RewardBench: Evaluating Reward Models for Long-form Generation**
 
-**H. Huang**, Y. He*, W. Liu*, M. Yang, J. Liu, k. Chen, B. Xu, C. Zhu, H. Cao, and T. Zhao, In **Proc. of AAAI**, 2026.
+**Hui Huang**, Yancheng He*, Wei Liu*, Muyun Yang, Jiaheng Liu, Kehai Chen, Bing Xu, Conghui Zhu, Hailong Cao, and Tiejun Zhao, In **Proc. of AAAI**, 2026.
 
 </div>
 </div>
@@ -61,7 +85,7 @@ redirect_from:
 
 **Think-J: Learning to Think for Generative LLM-as-a-Judge**
 
-**H. Huang**, Y. He*, H. Zhou*, R. Zhang, W. Liu, W. Wang, J.Liu, and W. Su, In **Proc. of AAAI**, 2026.
+**Hui Huang**, Yancheng He*, Hongli Zhou*, Rui Zhang, Wei Liu, Weixun Wang, Jiaheng Liu, and Wenbo Su, In **Proc. of AAAI**, 2026.
 
 </div>
 </div>
@@ -71,7 +95,7 @@ redirect_from:
 
 **Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory**
 
-H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 2026.
+Hongli Zhou*, **Hui Huang**, Tiejun Zhao, Lvyuan Han, Huicheng Wang, et al., In **Proc. of AAAI**, 2026.
 
 </div>
 </div>
@@ -81,7 +105,7 @@ H. Zhou*, **H. Huang**, Z. Zhao, L. Han, H. Wang, et al., In **Proc. of AAAI**, 
 
 **Air: Complex instruction generation via automatic iterative refinement.**
 
-W. Liu*, Y. He*, Y. Li*, **H. Huang&#9993;**, C. Hu, J. Liu, S. Li, W. Su, and B. Zheng, In **Proc. of EMNLP***, 2025.
+Wei Liu*, Yancheng He*, Yu Li*, **Hui Huang&#9993;**, Chengwe Hu, Jiaheng Liu, Shilong Li, Wenbo Su, and Bo Zheng, In **Proc. of EMNLP***, 2025.
 
 </div>
 </div>
@@ -91,7 +115,7 @@ W. Liu*, Y. He*, Y. Li*, **H. Huang&#9993;**, C. Hu, J. Liu, S. Li, W. Su, and B
 
 **Legal fact prediction: The missing piece in legal judgment prediction.**
 
-J. Liu, Y. Tong, **H. Huang\***, B. Zheng, Y. Hu, P. Wu, C. Xiao, M. Onizuka, M. Yang, and S. Zheng, In ***Proc. of EMNLP***, 2025.
+Jiaheng Liu, Yujie Tong, **Hui Huang**, Bowen Zheng, Yiran Hu, Peicheng Wu, Chuan Xiao, Makoto Onizuka, Muyun Yang, and Shuyuan Zheng, In ***Proc. of EMNLP***, 2025.
 
 </div>
 </div>
@@ -102,7 +126,7 @@ J. Liu, Y. Tong, **H. Huang\***, B. Zheng, Y. Hu, P. Wu, C. Xiao, M. Onizuka, M.
 
 **Musc: Improving complex instruction following with multi-granularity self-contrastive training.**
 
-**H. Huang**, J. Liu, Y. He, S. Li, B. Xu, C. Zhu, M. Yang, T. Zhao. In ***Proc. of ACL***, 2025.
+**Hui Huang**, Jiaheng Liu, Yancheng He, Shilong Li, Bing Xu, Conghui Zhu, Muyun Yang, Tiejun Zhao. In ***Proc. of ACL***, 2025.
 
 </div>
 </div>
@@ -112,7 +136,7 @@ J. Liu, Y. Tong, **H. Huang\***, B. Zheng, Y. Hu, P. Wu, C. Xiao, M. Onizuka, M.
 
 **An empirical study of Ilm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4.**
 
-**H. Huang**, X. Bu, H. Zhou, Y. Qu, X. Bu, J. Liu, M. Yang, B. Xu, and T. Zhao. In ***Findings of ACL***, 2025.
+**Hui Huang**, Xingyuan Bu, Hongli Zhou, Yingqi Qu, Jiaheng Liu, Muyun Yang, Bing Xu, and Tiejun Zhao. In ***Findings of ACL***, 2025.
 
 </div>
 </div>
@@ -122,7 +146,7 @@ J. Liu, Y. Tong, **H. Huang\***, B. Zheng, Y. Hu, P. Wu, C. Xiao, M. Onizuka, M.
 
 **2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision.**
 
-S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, and B. Zheng. In ***Findings of NAACL***, 2025, pp. 8149–8173.
+Shilong Li\*, Yancheng He\*, **Hui Huang\***, Xingyuan Bu, Jiaheng Liu, Hangyu Guo, Weixun Wang, Jihao Gu, Wenbo Su, and Bo Zheng. In ***Findings of NAACL***, 2025, pp. 8149–8173.
 
 </div>
 </div>
@@ -132,7 +156,7 @@ S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, 
 
 **Self-evaluation of large language model based on glass-box features.**
 
-**H. Huang**, Y. Qu, J. Liu, M. Yang, B. Xu, T. Zhao, and W. Lu. In ***Findings of EMNLP***, 2024, pp. 5813–5820.
+**Hui Huang**, Yingqi Qu, Jiaheng Liu, Muyun Yang, Bing Xu, Tiejun Zhao, and Wenpeng Lu. In ***Findings of EMNLP***, 2024, pp. 5813–5820.
 
 </div>
 </div>
@@ -142,7 +166,7 @@ S. Li\*, Y. He\*, **H. Huang\***, X. Bu, J. Liu, H. Guo, W. Wang, J. Gu, W. Su, 
 
 **Migitating the bias of large language model evaluation.**
 
-H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In ***Proc. of CCL***, 2024, pp. 1310–1319.
+Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyun Yang, and Tiejun Zhao. In ***Proc. of CCL***, 2024, pp. 1310–1319.
 
 </div>
 </div>
@@ -152,7 +176,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **Multi-view fusion for instruction mining of large language model.**
 
-**H. Huang**, B. Xu, X. Liang, K. Chen, M. Yang, T. Zhao, and C. Zhu. ***Information Fusion***, vol. 102, p. 102480, 2024.
+**Hui Huang**, Bing Xu, Xinnian Liang, Kehai Chen, Muyun Yang, Tiejun Zhao, and Conghui Zhu. ***Information Fusion***, vol. 102, p. 102480, 2024.
 
 </div>
 </div>
@@ -162,7 +186,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **Improving translation quality estimation with bias mitigation.**
 
-**H. Huang**, S. Wu, K. Chen, H. Di, M. Yang, and T. Zhao. In ***Proc. of ACL***, 2023, pp. 2175-2190.
+**Hui Huang**, Shuangzhi Wu, Kehai Chen, Hui Di, Muyun Yang, and Tiejun Zhao. In ***Proc. of ACL***, 2023, pp. 2175-2190.
 
 </div>
 </div>
@@ -172,7 +196,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **Iterative nearest neighbour machine translation for unsupervised domain adaptation.**
 
-**H. Huang**, S. Wu, X. Liang, Z. Zhou, M. Yang, and T. Zhao. In ***Findings of ACL***, 2023, pp. 13294-13301.
+**Hui Huang**, Shuangzhi Wu, Xinnian Liang, Zefan Zhou, Muyun Yang, and Tiejun Zhao. In ***Findings of ACL***, 2023, pp. 13294-13301.
 
 </div>
 </div>
@@ -182,7 +206,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **Multi-view fusion for universal translation quality estimation.**
 
-**H. Huang**, S. Wu, K. Chen, X. Liang, H. Di, M. Yang, and T. Zhao. ***Information Fusion***, vol. 102, p. 102022, 2024.
+**Hui Huang**, Shuangzhi Wu, Kehai Chen, Xinnian Liang, Hui Di, Muyun Yang, and Tiejun Zhao. ***Information Fusion***, vol. 102, p. 102022, 2024.
 
 </div>
 </div>
@@ -192,7 +216,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **Towards making the most of Ilm for translation quality estimation.**
 
-**H. Huang**, S. Wu, X. Liang, B. Wang, Y. Shi, P. Wu, M. Yang, and T. Zhao. In ***Proc. of NLPCC***, 2023, pp. 375-386.
+**Hui Huang**, Shuangzhi Wu, Xinnian Liang, Bing Wang, Yanrui Shi, Peihao Wu, Muyun Yang, and Tiejun Zhao. In ***Proc. of NLPCC***, 2023, pp. 375-386.
 
 </div>
 </div>
@@ -202,7 +226,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **BJTU-toshiba's submission to WMT22 quality estimation shared task.**
 
-**H. Huang**, H. Di, C. Li, H. Wu, K. Ouchi, Y. Chen, J. Liu, and J. Xu. In ***Proc. of WMT***, 2022, pp. 621-626.
+**Hui Huang**, Hui Di, Chunyou Li, Hanming Wu, Kazushige Ouchi, Yufeng Chen, Jiaheng Liu, and Ji'an Xu. In ***Proc. of WMT***, 2022, pp. 621-626.
 
 </div>
 </div>
@@ -212,7 +236,7 @@ H. Zhou, **H. Huang**, Y. Long, B. Xu, C. Zhu, H. Cao, M. Yang, and T. Zhao. In 
 
 **Iterative constrained back-translation for unsupervised domain adaptation of machine translation.**
 
-H. Zhang, **H. Huang**, J. Gao, Y. Chen, J. Xu, and J. Liu. In ***Proc. of COLING***, 2022, pp. 5054-5065.
+Hongxiao Zhang, **Hui Huang**, Jiale Gao, Yufeng Chen, Ji'an Xu, and Jiaheng Liu. In ***Proc. of COLING***, 2022, pp. 5054-5065.
 
 </div>
 </div>
@@ -222,7 +246,7 @@ H. Zhang, **H. Huang**, J. Gao, Y. Chen, J. Xu, and J. Liu. In ***Proc. of COLIN
 
 **Multi-source inverse-curriculum-based training for low-resource dialogue generation.**
 
-F. Cui, H. Di, **H. Huang**, H. Ren, K. Ouchi, Z. Liu, and J. Xu. ***Applied Intelligence***, vol. 53, pp. 13665-13676, 2022.
+Fuwei Cui, Hui Di, **Hui Huang**, Hongjie Ren, Kazushige Ouchi, Ze Liu, and Ji'an Xu. ***Applied Intelligence***, vol. 53, pp. 13665-13676, 2022.
 
 </div>
 </div>
@@ -232,7 +256,7 @@ F. Cui, H. Di, **H. Huang**, H. Ren, K. Ouchi, Z. Liu, and J. Xu. ***Applied Int
 
 **Saliency-based multi-view mixed language training for zero-shot cross-lingual classification.**
 
-S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. In ***Findings of EMNLP***, 2021, pp. 599-610.
+Siyu Lai, **Hui Huang**, Dong Jing, Yufeng Chen, Ji'an Xu, and Jian Liu. In ***Findings of EMNLP***, 2021, pp. 599-610.
 
 </div>
 </div>
@@ -242,7 +266,7 @@ S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. In ***Findings of EMN
 
 **Contrastive learning for machine translation quality estimation.**
 
-**H. Huang**, H. Di, J. Liu, Y. Chen, K. Ouchi, and J. Xu. In ***Proc. of NLPCC***, 2021, pp. 92-103.
+**Hui Huang**, Hui Di, Jiaheng Liu, Yufeng Chen, Kazushige Ouchi, and Ji'an Xu. In ***Proc. of NLPCC***, 2021, pp. 92-103.
 
 </div>
 </div>
@@ -252,7 +276,7 @@ S. Lai, **H. Huang**, D. Jing, Y. Chen, J. Xu, and J. Liu. In ***Findings of EMN
 
 **Ensemble distilling pretrained language models for machine translation quality estimation.**
 
-**H. Huang**, H. Di, J. Xu, K. Ouchi, and Y. Chen. In ***Proc. of NLPCC***, 2020, pp. 231-243.
+**Hui Huang**, Hui Di, Ji'an Xu, Kazushige Ouchi, and Yufeng Chen. In ***Proc. of NLPCC***, 2020, pp. 231-243.
 
 </div>
 </div>
