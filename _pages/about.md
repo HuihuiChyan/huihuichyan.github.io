@@ -195,9 +195,9 @@ Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Multi-view fusion for instruction mining of large language model.** <span class="badge-pub bg-other">Journal 2024</span>
+**Multi-view fusion for instruction mining of large language model.** <span class="badge-pub bg-other">Information Fusion 2024</span>
 
-**Hui Huang**, Bing Xu, Xinnian Liang, Kehai Chen, Muyun Yang, Tiejun Zhao, and Conghui Zhu. *Information Fusion*.
+**Hui Huang**, Bing Xu, Xinnian Liang, Kehai Chen, Muyun Yang, Tiejun Zhao, and Conghui Zhu.
 
 </div>
 </div>
@@ -225,9 +225,9 @@ Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Multi-view fusion for universal translation quality estimation.** <span class="badge-pub bg-other">Journal 2024</span>
+**Multi-view fusion for universal translation quality estimation.** <span class="badge-pub bg-other">Information Fusion 2024</span>
 
-**Hui Huang**, Shuangzhi Wu, Kehai Chen, Xinnian Liang, Hui Di, Muyun Yang, and Tiejun Zhao. *Information Fusion*.
+**Hui Huang**, Shuangzhi Wu, Kehai Chen, Xinnian Liang, Hui Di, Muyun Yang, and Tiejun Zhao.
 
 </div>
 </div>
@@ -265,9 +265,9 @@ Hongxiao Zhang, **Hui Huang**, Jiale Gao, Yufeng Chen, Ji'an Xu, and Jiaheng Liu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Multi-source inverse-curriculum-based training for low-resource dialogue generation.** <span class="badge-pub bg-other">Journal 2022</span>
+**Multi-source inverse-curriculum-based training for low-resource dialogue generation.** <span class="badge-pub bg-other">Applied Intelligence 2022</span>
 
-Fuwei Cui, Hui Di, **Hui Huang**, Hongjie Ren, Kazushige Ouchi, Ze Liu, and Ji'an Xu. *Applied Intelligence*.
+Fuwei Cui, Hui Di, **Hui Huang**, Hongjie Ren, Kazushige Ouchi, Ze Liu, and Ji'an Xu.
 
 </div>
 </div>
