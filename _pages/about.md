@@ -95,7 +95,7 @@ redirect_from:
 
 **Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory**
 
-Hongli Zhou*, **Hui Huang**, Tiejun Zhao, Lvyuan Han, Huicheng Wang, et al., In **Proc. of AAAI**, 2026.
+Hongli Zhou*, **Hui Huang\***, Tiejun Zhao, Lvyuan Han, Huicheng Wang, Kehai Chen, Muyun Yang, Wei Bao, Jian Dong, Bing Xu, Conghui Zhu, Hailong Cao, Tiejun Zhao, In **Proc. of AAAI**, 2026.
 
 </div>
 </div>
