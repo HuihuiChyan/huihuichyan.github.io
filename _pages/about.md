@@ -69,7 +69,7 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Reasoning Model Is Superior LLM-Judge, Yet Suffers from Biases** <span class="badge-pub bg-arxiv">arXiv 2026</span>
+**Reasoning Model Is Superior LLM-Judge, Yet Suffers from Biases** <span class="badge-pub bg-arxiv">arXiv 2601.03630</span>
 
 **Hui Huang**, Xuanxin Wu, Muyun Yang, Yuki Arase, 2026.
 
@@ -79,7 +79,7 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**DiVA: Fine-grained Factuality Verification with Agentic-Discriminative Verifier** <span class="badge-pub bg-arxiv">arXiv 2026</span>
+**DiVA: Fine-grained Factuality Verification with Agentic-Discriminative Verifier** <span class="badge-pub bg-arxiv">arXiv 2601.03605</span>
 
 **Hui Huang**, Muyun Yang, Yuki Arase, 2026.
 
