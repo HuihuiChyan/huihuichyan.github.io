@@ -8,6 +8,27 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .badge-pub {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 0.8em;
+    font-weight: 600;
+    border-radius: 4px;
+    color: #ffffff !important;
+    margin-left: 5px;
+    vertical-align: middle;
+    text-decoration: none;
+    line-height: 1.4;
+  }
+  .bg-aaai { background-color: #531dab; }
+  .bg-emnlp { background-color: #096dd9; }
+  .bg-acl { background-color: #389e0d; }
+  .bg-arxiv { background-color: #b37feb; }
+  .bg-findings { background-color: #d4380d; }
+  .bg-other { background-color: #595959; } /* 灰色，用于 NLPCC, CCL 等 */
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -49,9 +70,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Reasoning Model Is Superior LLM-Judge, Yet Suffers from Biases**
+**Reasoning Model Is Superior LLM-Judge, Yet Suffers from Biases** <span class="badge-pub bg-arxiv">arXiv 2026</span>
 
-**Hui Huang**, Xuanxin Wu, Muyun Yang, Yuki Arase, arXiv preprint arXiv:2601.03630, 2026.
+**Hui Huang**, Xuanxin Wu, Muyun Yang, Yuki Arase, 2026.
 
 </div>
 </div>
@@ -59,9 +80,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**DiVA: Fine-grained Factuality Verification with Agentic-Discriminative Verifier**
+**DiVA: Fine-grained Factuality Verification with Agentic-Discriminative Verifier** <span class="badge-pub bg-arxiv">arXiv 2026</span>
 
-**Hui Huang**, Muyun Yang, Yuki Arase, arXiv preprint arXiv:2601.03605, 2026.
+**Hui Huang**, Muyun Yang, Yuki Arase, 2026.
 
 </div>
 </div>
@@ -73,19 +94,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Long-form RewardBench: Evaluating Reward Models for Long-form Generation**
+**Long-form RewardBench: Evaluating Reward Models for Long-form Generation** <span class="badge-pub bg-aaai">AAAI 2026</span>
 
-**Hui Huang**, Yancheng He*, Wei Liu*, Muyun Yang, Jiaheng Liu, Kehai Chen, Bing Xu, Conghui Zhu, Hailong Cao, and Tiejun Zhao, In **Proc. of AAAI**, 2026.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Think-J: Learning to Think for Generative LLM-as-a-Judge**
-
-**Hui Huang**, Yancheng He*, Hongli Zhou*, Rui Zhang, Wei Liu, Weixun Wang, Jiaheng Liu, and Wenbo Su, In **Proc. of AAAI**, 2026.
+**Hui Huang**, Yancheng He*, Wei Liu*, Muyun Yang, Jiaheng Liu, Kehai Chen, Bing Xu, Conghui Zhu, Hailong Cao, and Tiejun Zhao.
 
 </div>
 </div>
@@ -93,19 +104,9 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory**
+**Think-J: Learning to Think for Generative LLM-as-a-Judge** <span class="badge-pub bg-aaai">AAAI 2026</span>
 
-Hongli Zhou*, **Hui Huang\***, Tiejun Zhao, Lvyuan Han, Huicheng Wang, Kehai Chen, Muyun Yang, Wei Bao, Jian Dong, Bing Xu, Conghui Zhu, Hailong Cao, Tiejun Zhao, In **Proc. of AAAI**, 2026.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Air: Complex instruction generation via automatic iterative refinement.**
-
-Wei Liu*, Yancheng He*, Yu Li*, **Hui Huang&#9993;**, Chengwe Hu, Jiaheng Liu, Shilong Li, Wenbo Su, and Bo Zheng, In **Proc. of EMNLP***, 2025.
+**Hui Huang**, Yancheng He*, Hongli Zhou*, Rui Zhang, Wei Liu, Weixun Wang, Jiaheng Liu, and Wenbo Su.
 
 </div>
 </div>
@@ -113,9 +114,29 @@ Wei Liu*, Yancheng He*, Yu Li*, **Hui Huang&#9993;**, Chengwe Hu, Jiaheng Liu, S
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Legal fact prediction: The missing piece in legal judgment prediction.**
+**Lost in Benchmarks? Rethinking Large Language Model Benchmarking with Item Response Theory** <span class="badge-pub bg-aaai">AAAI 2026</span>
 
-Jiaheng Liu, Yujie Tong, **Hui Huang**, Bowen Zheng, Yiran Hu, Peicheng Wu, Chuan Xiao, Makoto Onizuka, Muyun Yang, and Shuyuan Zheng, In ***Proc. of EMNLP***, 2025.
+Hongli Zhou*, **Hui Huang\***, Tiejun Zhao, Lvyuan Han, Huicheng Wang, Kehai Chen, Muyun Yang, Wei Bao, Jian Dong, Bing Xu, Conghui Zhu, Hailong Cao, Tiejun Zhao.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Air: Complex instruction generation via automatic iterative refinement.** <span class="badge-pub bg-emnlp">EMNLP 2025</span>
+
+Wei Liu*, Yancheng He*, Yu Li*, **Hui Huang&#9993;**, Chengwe Hu, Jiaheng Liu, Shilong Li, Wenbo Su, and Bo Zheng.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Legal fact prediction: The missing piece in legal judgment prediction.** <span class="badge-pub bg-emnlp">EMNLP 2025</span>
+
+Jiaheng Liu, Yujie Tong, **Hui Huang**, Bowen Zheng, Yiran Hu, Peicheng Wu, Chuan Xiao, Makoto Onizuka, Muyun Yang, and Shuyuan Zheng.
 
 </div>
 </div>
@@ -124,19 +145,9 @@ Jiaheng Liu, Yujie Tong, **Hui Huang**, Bowen Zheng, Yiran Hu, Peicheng Wu, Chua
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Musc: Improving complex instruction following with multi-granularity self-contrastive training.**
+**Musc: Improving complex instruction following with multi-granularity self-contrastive training.** <span class="badge-pub bg-acl">ACL 2025</span>
 
-**Hui Huang**, Jiaheng Liu, Yancheng He, Shilong Li, Bing Xu, Conghui Zhu, Muyun Yang, Tiejun Zhao. In ***Proc. of ACL***, 2025.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**An empirical study of Ilm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4.**
-
-**Hui Huang**, Xingyuan Bu, Hongli Zhou, Yingqi Qu, Jiaheng Liu, Muyun Yang, Bing Xu, and Tiejun Zhao. In ***Findings of ACL***, 2025.
+**Hui Huang**, Jiaheng Liu, Yancheng He, Shilong Li, Bing Xu, Conghui Zhu, Muyun Yang, Tiejun Zhao.
 
 </div>
 </div>
@@ -144,19 +155,9 @@ Jiaheng Liu, Yujie Tong, **Hui Huang**, Bowen Zheng, Yiran Hu, Peicheng Wu, Chua
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision.**
+**An empirical study of llm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4.** <span class="badge-pub bg-findings">Findings of ACL 2025</span>
 
-Shilong Li\*, Yancheng He\*, **Hui Huang\***, Xingyuan Bu, Jiaheng Liu, Hangyu Guo, Weixun Wang, Jihao Gu, Wenbo Su, and Bo Zheng. In ***Findings of NAACL***, 2025, pp. 8149–8173.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Self-evaluation of large language model based on glass-box features.**
-
-**Hui Huang**, Yingqi Qu, Jiaheng Liu, Muyun Yang, Bing Xu, Tiejun Zhao, and Wenpeng Lu. In ***Findings of EMNLP***, 2024, pp. 5813–5820.
+**Hui Huang**, Xingyuan Bu, Hongli Zhou, Yingqi Qu, Jiaheng Liu, Muyun Yang, Bing Xu, and Tiejun Zhao.
 
 </div>
 </div>
@@ -164,19 +165,9 @@ Shilong Li\*, Yancheng He\*, **Hui Huang\***, Xingyuan Bu, Jiaheng Liu, Hangyu G
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Migitating the bias of large language model evaluation.**
+**2D-DPO: Scaling Direct Preference Optimization with 2-Dimensional Supervision.** <span class="badge-pub bg-findings">Findings of NAACL 2025</span>
 
-Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyun Yang, and Tiejun Zhao. In ***Proc. of CCL***, 2024, pp. 1310–1319.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Multi-view fusion for instruction mining of large language model.**
-
-**Hui Huang**, Bing Xu, Xinnian Liang, Kehai Chen, Muyun Yang, Tiejun Zhao, and Conghui Zhu. ***Information Fusion***, vol. 102, p. 102480, 2024.
+Shilong Li\*, Yancheng He\*, **Hui Huang\***, Xingyuan Bu, Jiaheng Liu, Hangyu Guo, Weixun Wang, Jihao Gu, Wenbo Su, and Bo Zheng.
 
 </div>
 </div>
@@ -184,19 +175,9 @@ Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Improving translation quality estimation with bias mitigation.**
+**Self-evaluation of large language model based on glass-box features.** <span class="badge-pub bg-findings">Findings of EMNLP 2024</span>
 
-**Hui Huang**, Shuangzhi Wu, Kehai Chen, Hui Di, Muyun Yang, and Tiejun Zhao. In ***Proc. of ACL***, 2023, pp. 2175-2190.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Iterative nearest neighbour machine translation for unsupervised domain adaptation.**
-
-**Hui Huang**, Shuangzhi Wu, Xinnian Liang, Zefan Zhou, Muyun Yang, and Tiejun Zhao. In ***Findings of ACL***, 2023, pp. 13294-13301.
+**Hui Huang**, Yingqi Qu, Jiaheng Liu, Muyun Yang, Bing Xu, Tiejun Zhao, and Wenpeng Lu.
 
 </div>
 </div>
@@ -204,19 +185,9 @@ Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Multi-view fusion for universal translation quality estimation.**
+**Mitigating the bias of large language model evaluation.** <span class="badge-pub bg-other">CCL 2024</span>
 
-**Hui Huang**, Shuangzhi Wu, Kehai Chen, Xinnian Liang, Hui Di, Muyun Yang, and Tiejun Zhao. ***Information Fusion***, vol. 102, p. 102022, 2024.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Towards making the most of Ilm for translation quality estimation.**
-
-**Hui Huang**, Shuangzhi Wu, Xinnian Liang, Bing Wang, Yanrui Shi, Peihao Wu, Muyun Yang, and Tiejun Zhao. In ***Proc. of NLPCC***, 2023, pp. 375-386.
+Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyun Yang, and Tiejun Zhao.
 
 </div>
 </div>
@@ -224,19 +195,9 @@ Hongli Zhou, **Hui Huang**, Yunfei Long, Bing Xu, Conghui Zhu, Hailong Cao, Muyu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**BJTU-toshiba's submission to WMT22 quality estimation shared task.**
+**Multi-view fusion for instruction mining of large language model.** <span class="badge-pub bg-other">Journal 2024</span>
 
-**Hui Huang**, Hui Di, Chunyou Li, Hanming Wu, Kazushige Ouchi, Yufeng Chen, Jiaheng Liu, and Ji'an Xu. In ***Proc. of WMT***, 2022, pp. 621-626.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Iterative constrained back-translation for unsupervised domain adaptation of machine translation.**
-
-Hongxiao Zhang, **Hui Huang**, Jiale Gao, Yufeng Chen, Ji'an Xu, and Jiaheng Liu. In ***Proc. of COLING***, 2022, pp. 5054-5065.
+**Hui Huang**, Bing Xu, Xinnian Liang, Kehai Chen, Muyun Yang, Tiejun Zhao, and Conghui Zhu. *Information Fusion*.
 
 </div>
 </div>
@@ -244,19 +205,9 @@ Hongxiao Zhang, **Hui Huang**, Jiale Gao, Yufeng Chen, Ji'an Xu, and Jiaheng Liu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Multi-source inverse-curriculum-based training for low-resource dialogue generation.**
+**Improving translation quality estimation with bias mitigation.** <span class="badge-pub bg-acl">ACL 2023</span>
 
-Fuwei Cui, Hui Di, **Hui Huang**, Hongjie Ren, Kazushige Ouchi, Ze Liu, and Ji'an Xu. ***Applied Intelligence***, vol. 53, pp. 13665-13676, 2022.
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1" style="width: 100%;">
-
-**Saliency-based multi-view mixed language training for zero-shot cross-lingual classification.**
-
-Siyu Lai, **Hui Huang**, Dong Jing, Yufeng Chen, Ji'an Xu, and Jian Liu. In ***Findings of EMNLP***, 2021, pp. 599-610.
+**Hui Huang**, Shuangzhi Wu, Kehai Chen, Hui Di, Muyun Yang, and Tiejun Zhao.
 
 </div>
 </div>
@@ -264,9 +215,9 @@ Siyu Lai, **Hui Huang**, Dong Jing, Yufeng Chen, Ji'an Xu, and Jian Liu. In ***F
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Contrastive learning for machine translation quality estimation.**
+**Iterative nearest neighbour machine translation for unsupervised domain adaptation.** <span class="badge-pub bg-findings">Findings of ACL 2023</span>
 
-**Hui Huang**, Hui Di, Jiaheng Liu, Yufeng Chen, Kazushige Ouchi, and Ji'an Xu. In ***Proc. of NLPCC***, 2021, pp. 92-103.
+**Hui Huang**, Shuangzhi Wu, Xinnian Liang, Zefan Zhou, Muyun Yang, and Tiejun Zhao.
 
 </div>
 </div>
@@ -274,9 +225,79 @@ Siyu Lai, **Hui Huang**, Dong Jing, Yufeng Chen, Ji'an Xu, and Jian Liu. In ***F
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1" style="width: 100%;">
 
-**Ensemble distilling pretrained language models for machine translation quality estimation.**
+**Multi-view fusion for universal translation quality estimation.** <span class="badge-pub bg-other">Journal 2024</span>
 
-**Hui Huang**, Hui Di, Ji'an Xu, Kazushige Ouchi, and Yufeng Chen. In ***Proc. of NLPCC***, 2020, pp. 231-243.
+**Hui Huang**, Shuangzhi Wu, Kehai Chen, Xinnian Liang, Hui Di, Muyun Yang, and Tiejun Zhao. *Information Fusion*.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Towards making the most of llm for translation quality estimation.** <span class="badge-pub bg-other">NLPCC 2023</span>
+
+**Hui Huang**, Shuangzhi Wu, Xinnian Liang, Bing Wang, Yanrui Shi, Peihao Wu, Muyun Yang, and Tiejun Zhao.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**BJTU-toshiba's submission to WMT22 quality estimation shared task.** <span class="badge-pub bg-other">WMT 2022</span>
+
+**Hui Huang**, Hui Di, Chunyou Li, Hanming Wu, Kazushige Ouchi, Yufeng Chen, Jiaheng Liu, and Ji'an Xu.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Iterative constrained back-translation for unsupervised domain adaptation of machine translation.** <span class="badge-pub bg-other">COLING 2022</span>
+
+Hongxiao Zhang, **Hui Huang**, Jiale Gao, Yufeng Chen, Ji'an Xu, and Jiaheng Liu.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Multi-source inverse-curriculum-based training for low-resource dialogue generation.** <span class="badge-pub bg-other">Journal 2022</span>
+
+Fuwei Cui, Hui Di, **Hui Huang**, Hongjie Ren, Kazushige Ouchi, Ze Liu, and Ji'an Xu. *Applied Intelligence*.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Saliency-based multi-view mixed language training for zero-shot cross-lingual classification.** <span class="badge-pub bg-findings">Findings of EMNLP 2021</span>
+
+Siyu Lai, **Hui Huang**, Dong Jing, Yufeng Chen, Ji'an Xu, and Jian Liu.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Contrastive learning for machine translation quality estimation.** <span class="badge-pub bg-other">NLPCC 2021</span>
+
+**Hui Huang**, Hui Di, Jiaheng Liu, Yufeng Chen, Kazushige Ouchi, and Ji'an Xu.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1" style="width: 100%;">
+
+**Ensemble distilling pretrained language models for machine translation quality estimation.** <span class="badge-pub bg-other">NLPCC 2020</span>
+
+**Hui Huang**, Hui Di, Ji'an Xu, Kazushige Ouchi, and Yufeng Chen.
 
 </div>
 </div>
