@@ -146,7 +146,7 @@ Junkai Liu\*, Yujie Tong\*, **Hui Huang**, Bowen Zheng, Yiran Hu, Peicheng Wu, C
 
 **Musc: Improving complex instruction following with multi-granularity self-contrastive training.** <span class="badge-pub bg-nlp">ACL 2025</span>
 
-**Hui Huang**, Jiaheng Liu\*, Yancheng He\*, Shilong Li, Bing Xu, Conghui Zhu, Muyun Yang, Tiejun Zhao.
+**Hui Huang\***, Jiaheng Liu\*, Yancheng He\*, Shilong Li, Bing Xu, Conghui Zhu, Muyun Yang, Tiejun Zhao.
 
 </div>
 </div>
@@ -156,7 +156,7 @@ Junkai Liu\*, Yujie Tong\*, **Hui Huang**, Bowen Zheng, Yiran Hu, Peicheng Wu, C
 
 **An empirical study of llm-as-a-judge for llm evaluation: Fine-tuned judge model is not a general substitute for gpt-4.** <span class="badge-pub bg-nlp">Findings of ACL 2025</span>
 
-**Hui Huang**, Xingyuan Bu\*, Hongli Zhou\*, Yingqi Qu, Jing Liu, Muyun Yang, Bing Xu, and Tiejun Zhao.
+**Hui Huang\***, Xingyuan Bu\*, Hongli Zhou\*, Yingqi Qu, Jing Liu, Muyun Yang, Bing Xu, and Tiejun Zhao.
 
 </div>
 </div>
