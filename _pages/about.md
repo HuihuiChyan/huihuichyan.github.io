@@ -21,11 +21,11 @@ redirect_from:
     text-decoration: none;
     line-height: 1.4;
   }
-  .bg-ai { background-color: #531dab; }    /* 深紫色 - AAAI */
-  .bg-nlp { background-color: #096dd9; }   /* 蓝色 - ACL, EMNLP, Findings, COLING */
-  .bg-ml { background-color: #389e0d; }    /* 绿色 - ML (保留备用) */
+  .bg-ai { background-color: #531dab; }    /* 深紫色 - AAAI, IJCAI */
+  .bg-nlp { background-color: #d4380d; }   /* 橘红色 - ACL, EMNLP, NAACL, COLING (已对调) */
+  .bg-ml { background-color: #389e0d; }    /* 绿色 - NIPS, ICML, ICLR*/
   .bg-arxiv { background-color: #b37feb; } /* 浅紫色 - arXiv */
-  .bg-others { background-color: #d4380d; } /* 橘红色 - 期刊, NLPCC, Shared Tasks */
+  .bg-others { background-color: #096dd9; } /* 蓝色 - 期刊, 国内会议 */
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -303,8 +303,8 @@ Siyu Lai, **Hui Huang**, Dong Jing, Yufeng Chen, Ji'an Xu, and Jian Liu.
 
 <br><br>
 # 🎖 Honors and Awards
-- *2023*: CHIP Shared Task <span class="badge-pub bg-others">Shared Task</span>, Ranked 1st on No-Finetuning Track.
-- *2023*: Eval4NLP Shared Task <span class="badge-pub bg-others">Shared Task</span>, Ranked 1st on Medium-Sized Track.
-- *2022*: WMT Shared Task <span class="badge-pub bg-others">Shared Task</span>, Ranked 2nd on Quality Estimation for En-De Tracks.
-- *2021*: CCMT Shared Task <span class="badge-pub bg-others">Shared Task</span>, Ranked 1st on Quality Estimation and Automatic Post-Editing for Zh-En and Machine Translation for Zh-En, En-Zh and Ti-Zh Tracks.
-- *2020*: CCMT Shared Task <span class="badge-pub bg-others">Shared Task</span>, Ranked 1st on Quality Estimation for both Zh-En and En-Zh Tracks.
+- *2023*: CHIP Shared Task, Ranked 1st on No-Finetuning Track.
+- *2023*: Eval4NLP Shared Task, Ranked 1st on Medium-Sized Track.
+- *2022*: WMT Shared Task, Ranked 2nd on Quality Estimation for En-De Tracks.
+- *2021*: CCMT Shared Task, Ranked 1st on Quality Estimation and Automatic Post-Editing for Zh-En and Machine Translation for Zh-En, En-Zh and Ti-Zh Tracks.
+- *2020*: CCMT Shared Task, Ranked 1st on Quality Estimation for both Zh-En and En-Zh Tracks.

@@ -468,27 +468,3 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
-
-
-/*
-   Publication Badges
-   ========================================================================== */
-.badge-pub {
-  display: inline-block;
-  padding: 2px 8px;
-  font-size: 0.8em;
-  font-weight: 600;
-  border-radius: 4px;
-  color: #ffffff !important; /* 确保文字始终为白色 */
-  margin-left: 6px;
-  vertical-align: middle;
-  text-decoration: none;
-  line-height: 1.4;
-}
-
-/* 针对不同会议的背景颜色 */
-.bg-ai { background-color: #531dab; }   /* 深紫色 */
-.bg-nlp { background-color: #096dd9; }  /* 蓝色 */
-.bg-ml { background-color: #389e0d; }    /* 绿色 */
-.bg-arxiv { background-color: #b37feb; }  /* 浅紫色 */
-.bg-others { background-color: #d4380d; } /* 橘红色 (常用于 Findings 论文) */
