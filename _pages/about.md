@@ -43,8 +43,10 @@ redirect_from:
 🌱 I’m **Hui Huang**, a 4th year Ph.D. student at Harbin Institute of Technology in Computer Science.
 
 📖 My research interest includes:
-  - Large Language Models (LLM) 
-  - Natural Language Processing (NLP)
+  - Large Language Models Evaluation, LLM-as-a-Judge
+  - Efficient Reward Modeling for Generative Language Model
+  - Complex (Multi-Constraint) Instruction Following 
+  - Multilingual and Cross-lingual Natural Language Processing
 
 📫 Feel free to contact me via email: 22b903058@stu.hit.edu.cn.
 
